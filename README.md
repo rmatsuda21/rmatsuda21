@@ -1,16 +1,40 @@
-## Hi there 👋
+# Howdy 👋
 
-<!--
-**rmatsuda21/rmatsuda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Reo Matsuda**, a web developer based in North Carolina!
 
-Here are some ideas to get you started:
+I love tackling complex problems, creating exciting experiences, and gaming 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As much as I am a frontend enjoyer, my skills goes through the entire stack!
+
+If you have time, check out my portfolio. You won't regret it ✌️
+
+## 🎨 Projects
+- [Portfolio](https://rmatsuda21.github.io/)
+- [CSTAT Gacha Com](https://cstat-gacha-com.vercel.app/)
+- [Pitch.io](https://pitch-io.vercel.app/)
+
+## 💻 Tech Stack
+### Frontend
+- React
+- TypeScript
+- Next.js
+- Vite
+- Express
+- Framer Motion
+- Sass
+- Jest / RTL
+
+### Full Stack
+- Docker
+- MongoDB
+- DynamoDB
+- PostgreSQL
+- AWS (EC2/Lambda)
+- Vercel
+- Github Actions
+
+### Languages
+- JavaScript
+- Java
+- Python
+- C++
