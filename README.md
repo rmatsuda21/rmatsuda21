@@ -10,6 +10,7 @@ If you have time, check out my portfolio. You won't regret it ✌️
 
 ## 🎨 Projects
 - [Portfolio](https://rmatsuda21.github.io/)
+- [Smash Ranker](https://smash-ranker.vercel.app/ranker)
 - [CSTAT Gacha Com](https://cstat-gacha-com.vercel.app/)
 - [Pitch.io](https://pitch-io.vercel.app/)
 
