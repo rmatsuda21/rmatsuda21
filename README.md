@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="Reo Matsuda. Software Engineer, React. Jersey City, NJ." width="100%">
 </picture>
 
-Howdy! I'm a frontend engineer. I like building things that are fast, feel good to use, and don't fall over when a lot of people show up at once.
+Howdy! I'm a fullstack engineer. I like building things that are fast, feel good to use, and don't fall over when a lot of people show up at once.
 
 <p>
   <a href="https://rmatsuda21.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio" height="40"></picture></a>
