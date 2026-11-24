@@ -36,7 +36,7 @@ GRID = 0.07
 # ── Content ──────────────────────────────────────────────────────────────
 
 NAME = "Reo Matsuda"
-SPEC = [("Role", "Software Engineer, React"), ("Base", "Jersey City, NJ"), ("Main", "Jigglypuff (SSBU)")]
+SPEC = [("Role", "Software Engineer, Full Stack"), ("Base", "Jersey City, NJ"), ("Main", "Jigglypuff (SSBU)")]
 STACK = ["React", "Next.js", "TypeScript", "GraphQL", "Sass", "Django", "Python"]
 BUTTONS = [("portfolio", "Portfolio", True), ("linkedin", "LinkedIn", False), ("email", "Email", False)]
 HEADERS = [("experience", "02", "Experience", "Nextdoor · GOAT Group"), ("work", "03", "Work", "3 entries")]
